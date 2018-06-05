@@ -26,7 +26,7 @@ var	booksData = [
 		title: "Claude Gueux",
 		release: "06/07/1834",
 		summary: "Claude Gueux, un modeste ouvrier, vit en concubinage avec une jeune fille et l’enfant de celle-ci. C’est un homme habile et intelligent mais analphabète et sans éducation. Un hiver pendant lequel le travail se fait trop rare, la petite famille souffre de la faim et du froid. Claude se résout à voler pour vivre. Le maigre butin permet à la femme et à l’enfant de vivre de pain et de se réchauffer, pendant trois jours. L’homme récolte malheureusement cinq ans de prison, peine à purger à la maison centrale de Clairvaux.",
-		quantity: 0
+		quantity: 1
 	},
 	{
 		id: 2,
